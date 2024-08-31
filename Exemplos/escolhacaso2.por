@@ -1,6 +1,6 @@
 programa
 {
-	
+	 
 	funcao inicio()
 	{
 		inteiro opcao1, opcao2, soma, sub, div, mult
